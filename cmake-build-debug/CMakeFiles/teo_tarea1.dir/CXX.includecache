@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/clases/Interger.cpp
+Interger.h
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/clases/Interger.h
+
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/clases/Interger.h
+../lib.h
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/lib.h
+
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/lib.h
+iostream
+-
+
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/main.cpp
+lib.h
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/lib.h
+clases/Interger.h
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/src/clases/Interger.h
+

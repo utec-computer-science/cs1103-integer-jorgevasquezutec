@@ -1,0 +1,3 @@
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/cmake-build-debug/CMakeFiles/teo_tarea1.dir
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-integer-jorgevasquezutec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
